@@ -1,0 +1,5 @@
+{
+	"DEFAULT_ERROR": 1,
+	"WRONG_NAME": 100, 
+	"WRONG_PASS": 101
+}

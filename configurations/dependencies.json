@@ -1,0 +1,44 @@
+{
+	"world": [
+			{"name": "navigation", "directory": "./world/", "extension": ".js"},
+			{"name": "buddy", "directory": "./world/", "extension": ".js"},
+			{"name": "ignore", "directory": "./world/", "extension": ".js"},
+			{"name": "epf", "directory": "./world/", "extension": ".js"},
+			{"name": "inventory", "directory": "./world/", "extension": ".js"},
+			{"name": "mail", "directory": "./world/", "extension": ".js"},
+			{"name": "user", "directory": "./world/", "extension": ".js"},
+			{"name": "settings", "directory": "./world/", "extension": ".js"},
+			{"name": "moderation", "directory": "./world/", "extension": ".js"},
+			{"name": "message", "directory": "./world/", "extension": ".js"},
+			{"name": "pet", "directory": "./world/", "extension": ".js"},
+			{"name": "igloo", "directory": "./world/", "extension": ".js"},
+			{"name": "stamps", "directory": "./world/", "extension": ".js"},
+			{"name": "captcha", "directory": "./world/", "extension": ".js"},
+			{"name": "toy", "directory": "./world/", "extension": ".js"},
+			{"name": "redemption", "directory": "./world/", "extension": ".js"},
+			{"name": "ninja", "directory": "./world/", "extension": ".js"},
+			{"name": "leaderboard", "directory": "./world/", "extension": ".js"},
+			{"name": "survey", "directory": "./world/", "extension": ".js"},
+			
+			{"name": "general", "directory": "./world/game/", "extension": ".js"},
+			{"name": "waddle", "directory": "./world/game/", "extension": ".js"},
+			{"name": "table", "directory": "./world/game/", "extension": ".js"},
+			{"name": "multiplayer", "directory": "./world/game/", "extension": ".js"}
+	],
+
+	"waddles": [
+			{"name": "cardjitsu", "directory": "./", "extension": ".js"},
+			{"name": "cardjitsufire", "directory": "./", "extension": ".js"},
+			{"name": "cardjitsuwater", "directory": "./", "extension": ".js"},
+			{"name": "sledracing", "directory": "./", "extension": ".js"},
+			{"name": "multiplayer", "directory": "./", "extension": ".js"}
+	],
+		
+	"services": [
+			{"name": "post", "extension": ".js"},
+			{"name": "discord", "extension": ".js"},
+			{"name": "commands", "extension": ".js"},
+			{"name": "mascots", "extension": ".js"},
+			{"name": "anticheat", "extension": ".js"}
+	]
+}

@@ -1,0 +1,1 @@
+nodejs server.js media2l & nodejs server.js media2w

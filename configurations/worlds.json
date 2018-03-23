@@ -1,0 +1,155 @@
+{
+	"login": {
+		"address": "0",
+		"port": 6112,
+		"type": "login",
+		"capacity": 800,
+		"id": 9993,
+		"dbConnections": 20,
+		"safechat": false,
+		"moderator": false
+	},
+	
+	"zipline": {
+		"address": "0",
+		"port": 7001,
+		"type": "game",
+		"capacity": 430,
+		"id": 201,
+		"dbConnections": 20,
+		"safechat": false,
+		"moderator": false
+	},
+	
+	"snow": {
+		"address": "0",
+		"port": 6114,
+		"type": "game",
+		"capacity": 430,
+		"id": 101,
+		"dbConnections": 15,
+		"safechat": true,
+		"moderator": false
+	},
+	
+	"sleet": {
+		"address": "0",
+		"port": 6119,
+		"type": "game",
+		"capacity": 430,
+		"id": 106,
+		"dbConnections": 20,
+		"safechat": false,
+		"moderator": false
+	},
+	
+	"marshmallow": {
+		"address": "0",
+		"port": 7000,
+		"type": "game",
+		"capacity": 430,
+		"id": 200,
+		"dbConnections": 15,
+		"safechat": false,
+		"moderator": false
+	},
+	
+	"deepfreeze": {
+		"address": "0",
+		"port": 7002,
+		"type": "game",
+		"capacity": 430,
+		"id": 202,
+		"dbConnections": 20,
+		"safechat": false,
+		"moderator": false
+	},
+	
+	"blizzard": {
+		"address": "0",
+		"port": 6113,
+		"type": "game",
+		"capacity": 430,
+		"id": 100,
+		"dbConnections": 25,
+		"safechat": false,
+		"moderator": false
+	},
+	
+	"beanie": {
+		"address": "0",
+		"port": 7011,
+		"type": "game",
+		"capacity": 430,
+		"id": 211,
+		"dbConnections": 20,
+		"safechat": false,
+		"moderator": false
+	},
+		
+	"ascent": {
+		"address": "0",
+		"port": 7008,
+		"type": "game",
+		"capacity": 430,
+		"id": 208,
+		"dbConnections": 15,
+		"safechat": false,
+		"moderator": false
+	},
+		
+	"antarctic": {
+		"address": "0",
+		"port": 7003,
+		"type": "game",
+		"capacity": 430,
+		"id": 203,
+		"dbConnections": 15,
+		"safechat": true,
+		"moderator": false
+	},
+		
+	"abominable": {
+		"address": "0",
+		"port": 7004,
+		"type": "game",
+		"capacity": 430,
+		"id": 204,
+		"dbConnections": 15,
+		"safechat": false,
+		"moderator": false
+	},
+	
+	"redemption": {
+		"address": "0",
+		"port": 9875,
+		"type": "redemption",
+		"capacity": 430,
+		"id": 1337,
+		"dbConnections": 5,
+		"safechat": false,
+		"moderator": false
+	},
+	
+	"media2l": {
+		"address": "0",
+		"port": 8889,
+		"type": "login",
+		"capacity": 800,
+		"id": 8889,
+		"dbConnections": 2,
+		"safechat": false,
+		"moderator": true
+	},
+	
+	"media2w": {
+		"address": "0",
+		"port": 8888,
+		"type": "game",
+		"capacity": 10,
+		"id": 8888,
+		"dbConnections": 2,
+		"safechat": false,
+		"moderator": true
+	}
+}

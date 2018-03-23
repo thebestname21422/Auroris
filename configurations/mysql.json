@@ -1,0 +1,17 @@
+{
+	"mysql": {
+		"host": "localhost",
+		"user": "",
+		"password": "",
+		"database": "",
+		"test_sql": "SELECT 1"
+	},
+	
+	"remote": {
+		"host": "",
+		"user": "",
+		"password": "",
+		"database": "",
+		"test_sql": "SELECT 1"
+	}
+}

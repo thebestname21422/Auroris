@@ -1,0 +1,10 @@
+[{"puffle_id":"0","type":"Blue","color":"0x33ccff","cost":800,"max_health":"100","max_hunger":"100","max_rest":"100"},
+{"puffle_id":"1","type":"Pink","color":"0xffccff","cost":800,"max_health":"100","max_hunger":"120","max_rest":"80"},
+{"puffle_id":"2","type":"Black","color":"0x666666","cost":800,"max_health":"120","max_hunger":"80","max_rest":"100"},
+{"puffle_id":"3","type":"Green","color":"0x33cc00","cost":800,"max_health":"80","max_hunger":"100","max_rest":"120"},
+{"puffle_id":"4","type":"Purple","color":"0xad5fc6","cost":800,"max_health":"80","max_hunger":"120","max_rest":"80"},
+{"puffle_id":"5","type":"Red","color":"0xee4444","cost":800,"max_health":"100","max_hunger":"80","max_rest":"120"},
+{"puffle_id":"6","type":"Yellow","color":"0xffff00","cost":800,"max_health":"100","max_hunger":"100","max_rest":"100"},
+{"puffle_id":"7","type":"White","color":"0xffffee","cost":800,"max_health":"120","max_hunger":"80","max_rest":"100"},
+{"puffle_id":"8","type":"Orange","color":"0xff9900","cost":800,"max_health":"100","max_hunger":"80","max_rest":"120"},
+{"puffle_id":"9","type":"Brown","color":"0xff9900","cost":800,"max_health":"100","max_hunger":"80","max_rest":"120"}]
